@@ -4,6 +4,13 @@ A hands-on workbench for learning advanced C programming concepts, from memory m
 
 This repository is designed to be an owner's companion for a structured, practical journey into mastering advanced C. It follows an iterative approach, building skills from the ground up and applying them to a progressively evolving project.
 
+## 📚 Documentation
+
+A comprehensive documentation bundle for this project is maintained on Google Drive. It includes a detailed project overview, learning roadmaps, and supporting references.
+
+*   **[Main Documentation Bundle](https://docs.google.com/document/d/1sgZH7SbIR7PrG_eSzrAcOHb_OGaEHtgSJAOfLl2yH6Q/edit?usp=drivesdk)**
+*   **[Project Drive Folder](https://drive.google.com/drive/folders/1GQNxMph7sPwFbcI5lgWFLaAnH0xeFGDp)**
+
 ## Learning Path
 
 The learning path is divided into four modules, each tackling a specific area of advanced C. You must follow them in order.
@@ -39,7 +46,7 @@ graph TD
 
 ## Required Tooling
 
-To complete the exercises in this repository, you will need the following tools on an `x86_64 Linux` system:
+To complete the exercises in this repository, you will need the following tools on an `x8d64 Linux` system:
 
 *   `gcc` (C11)
 *   `make`
