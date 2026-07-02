@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.out
+*.a
+*.so
+
+# Executables
+project/app
+
+# Profiling data
+gmon.out
+perf.data
+
+# VSCode user settings
+.vscode/
